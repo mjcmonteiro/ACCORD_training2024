@@ -13,4 +13,4 @@ New changes testing
 How to put a link in Markdown
 [link to IPMA](http://www.ipma.pt/)
 
-My fisr commit from command line)
+My first commit from command line
