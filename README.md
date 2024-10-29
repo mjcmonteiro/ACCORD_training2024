@@ -11,4 +11,6 @@ Testing repo
 New changes testing
 
 How to put a link in Markdown
-[link to IPMA] http://www.ipma.pt/
+[link to IPMA](http://www.ipma.pt/)
+
+My fisr commit from command line)
