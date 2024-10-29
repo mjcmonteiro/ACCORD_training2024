@@ -9,3 +9,6 @@ Testing repo
     - third label
 
 New changes testing
+
+How to put a link in Markdown
+[link to IPMA] http://www.ipma.pt/
